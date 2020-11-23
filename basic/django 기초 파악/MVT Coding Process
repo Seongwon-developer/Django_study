@@ -1,0 +1,5 @@
+프로젝트 뼈대 만들기 : 프로젝트 및 앱 개발에 필요한 디렉토리와 파일 생성
+모델 코딩하기 : 테이블 관련 사항 개발(models.py, admin.py)
+URLconf 코딩하기 : URL 및 뷰 매핑 관계 정의(urls.py)
+템플릿 코딩하기 : 화면 UI 개발(template/ 디렉토리 하위의 *.html)
+뷰 코딩하기 : dovmfflzpdltus fhwlr roqkf(view.py)
