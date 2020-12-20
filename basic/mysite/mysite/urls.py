@@ -16,8 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 
-# path(routing, app urls)
 urlpatterns = [
-    path('polls/', include('polls.urls')),
+    path('polls/', include('polls.urls')),          # polls.urls로 라우팅
     path('admin/', admin.site.urls),
 ]
